@@ -1,4 +1,4 @@
-# [Tech Blog](https://jixinhe.github.io/)
+# [Jixin's Tech Blog](https://jixinhe.github.io/)
 
 [Tech Blog](https://startbootstrap.com/template-overviews/agency/) is a personal blog bulit with [Bootstrap](http://getbootstrap.com/) and [HTML5](https://en.wikipedia.org/wiki/HTML5) <!--and [VueJs](https://vuejs.org/index.html)--> by **[Jixin HE](https://jixinhe.github.io/)**. The objective of this blog is to organize the author's projects.
 More functions are being developed.
